@@ -1,5 +1,5 @@
 ### Hi there 👋, My Name is Mahruf Zaman Utso
-#### I am a Manual SQA Tester
+
 
 I am a fresh graduate at Computer Science and Engineering from East West University. I am looking forward to build my career as a succesful SQA Engineer. 
 
