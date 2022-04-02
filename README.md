@@ -3,7 +3,7 @@
 
 I am a fresh graduate at Computer Science and Engineering from East West University. I am looking forward to build my career as a succesful SQA Engineer. 
 
-Skills: Postman/JMeter/Jira/HTML/CSS
+Skills: Postman/JMeter/Jira/Manual Testing/SDLC/STLC/SQL/HTML/CSS
 
 - 🔭 I’m currently working on Manual Testing 
 - 🌱 I’m currently learning Automation Testing and Manual Testing.
